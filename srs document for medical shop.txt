@@ -1,0 +1,26 @@
+Introduction:
+
+Purpose: Define the objectives of the system, such as automating manual record-keeping to enhance efficiency and accuracy.
+Scope: Describe the boundaries of the system, including functionalities like inventory management, sales processing, and reporting.
+
+Product Perspective: Explain how the system fits within the existing environment of the medical shop.
+User Needs: Identify the needs of various users, such as pharmacists, sales staff, and administrators.
+Assumptions and Dependencies: List any assumptions made during the development and dependencies on other systems or technologies.
+System Features and Requirements:
+
+Functional Requirements: Detail the specific functionalities the system must support, including:
+Inventory Management: Track stock levels, manage reordering, and handle product categorization.
+Sales Processing: Process sales transactions, generate receipts, and update inventory accordingly.
+Accounting: Maintain financial records, manage billing, and generate financial reports.
+Reporting: Generate various reports, such as sales summaries, inventory status, and financial statements.
+Non-Functional Requirements: Specify performance criteria, security measures, and usability standards.
+External Interface Requirements:
+
+User Interfaces: Describe the design and usability of the user interface for different user roles.
+Hardware Interfaces: Specify any hardware requirements, such as barcode scanners or receipt printers.
+Software Interfaces: Detail interactions with other software systems, like accounting software or supplier databases.
+System Attributes:
+
+Performance: Define response times and transaction processing speeds.
+Security: Outline measures to protect sensitive data, including user authentication and data encryption.
+Reliability: Specify uptime requirements and error handling procedures.
